@@ -1,0 +1,21 @@
+body{
+font-size: 15px;
+/* background-color: hsl(229, 6%, 66%); */
+width: 1440px;
+}
+.container {
+border: solid black;
+/* background-color: hsl(229, 6%, 66%); */
+display: flex;
+
+}
+
+/* .inner-container{
+background-color:hsl(229, 6%, 66%)
+
+} */
+
+.child-container {
+    background-color:hsl(229, 6%, 66%);
+    border: solid black;
+}
